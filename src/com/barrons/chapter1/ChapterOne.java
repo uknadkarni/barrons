@@ -28,4 +28,9 @@ public class ChapterOne {
 		int result = 13 - 3 * 6 / 4 % 3;
 		System.out.println("Result: " + result);
 	}
+	
+	public static void problemSix() {
+		int result = (2+3) * 12 / ((7-4)+8);
+		System.out.println("Result: " + result);
+	}
 }
