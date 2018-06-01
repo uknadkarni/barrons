@@ -20,6 +20,13 @@ public class Main {
 		ChapterOne.problemFive();
 		
 		ChapterOne.problemSix();
+		
+		ChapterOne.problemSeven();
+
+		ChapterOne.problemNine();
+		
+
+		ChapterOne.problemTen();
 	}
 
 }
